@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data/projects/Machine-Learning-Project_with_MLFlow/mlruns/0/093ba1664cf24adf9bf322125937df56/artifacts
+end_time: 1723512932770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 093ba1664cf24adf9bf322125937df56
+run_name: bold-shoat-165
+run_uuid: 093ba1664cf24adf9bf322125937df56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723512922316
+status: 3
+tags: []
+user_id: Chinmayee
