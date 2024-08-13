@@ -23,7 +23,7 @@ https://github.com/AbhilashAnand06/Machine-Learning-Project_with_MLFlow
 ### STEP 02- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mlproj python=3.11 -y
+conda create -n mlproj python=3.10 -y
 ```
 
 ```bash
@@ -36,16 +36,11 @@ conda activate mlproj
 pip install -r requirements.txt
 ```
 
-### STEP 04- Run
+### STEP 04- Run app.py
 ```bash
-# Finally run the following command
 python app.py
 ```
-
-Now,
-```bash
-open up you local host and port
-```
+You can view your client side webpage on localhost and appropriate port number
 
 
 

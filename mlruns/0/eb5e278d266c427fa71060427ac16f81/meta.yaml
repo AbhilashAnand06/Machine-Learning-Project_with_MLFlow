@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data/projects/Machine-Learning-Project_with_MLFlow/mlruns/0/eb5e278d266c427fa71060427ac16f81/artifacts
+end_time: 1723510836622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb5e278d266c427fa71060427ac16f81
+run_name: fortunate-stoat-191
+run_uuid: eb5e278d266c427fa71060427ac16f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723510827597
+status: 3
+tags: []
+user_id: ABHANA
