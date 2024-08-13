@@ -123,6 +123,7 @@ celerybeat.pid
 
 # Environments
 mlproj/
+env_var.env
 .env
 .venv
 env/
