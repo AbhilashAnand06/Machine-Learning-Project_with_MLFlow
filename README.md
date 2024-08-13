@@ -47,7 +47,7 @@ You can view your client side webpage on localhost and appropriate port number
 ## For MLflow, refer to the following link for the documentation
 
 [Documentation](https://mlflow.org/docs/latest/index.html)
-
+Helpful in tracing all your ML experiments. Additionally assists in logging and tagging your model.
 
 ##### cmd
 - mlflow ui
@@ -55,15 +55,5 @@ You can view your client side webpage on localhost and appropriate port number
 
 ### dagshub
 [dagshub](https://dagshub.com/)
+Link your Github repo to dagshub repo so that you can view your experiments in MLFlow 
 
-Run this to export as env variables:
-
-```bash
-
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow](https://dagshub.com/AbhilashAnand06/Machine-Learning-Project_with_MLFlow.mlflow
-
-export MLFLOW_TRACKING_USERNAME=AbhilashAnand06
-
-export MLFLOW_TRACKING_PASSWORD=6d8a462f0d07d33de35fb785b2f347e620b29403
-
-```
