@@ -60,12 +60,10 @@ Run this to export as env variables:
 
 ```bash
 
-import dagshub
-dagshub.init(repo_owner='AbhilashAnand06', repo_name='Machine-Learning-Project_with_MLFlow', mlflow=True)
+export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow](https://dagshub.com/AbhilashAnand06/Machine-Learning-Project_with_MLFlow.mlflow
 
-import mlflow
-with mlflow.start_run():
-  mlflow.log_param('parameter name', 'value')
-  mlflow.log_metric('metric name', 1)
+export MLFLOW_TRACKING_USERNAME=AbhilashAnand06
+
+export MLFLOW_TRACKING_PASSWORD=6d8a462f0d07d33de35fb785b2f347e620b29403
 
 ```
