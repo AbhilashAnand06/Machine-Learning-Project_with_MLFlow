@@ -1,4 +1,5 @@
-# Machine-Learning-Project_with_MLFlow
+# Wine Quality Prediction
+This machine learning project is hosted as a WebApp and aims at helping users predict the quality of wine based on certain parameters. This project utilizes MLFlow for model and experiment tracking.
 
 
 ## Workflows
